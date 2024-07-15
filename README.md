@@ -41,17 +41,8 @@ Responses were collected from a diverse audience across various social media pla
 ### Digital Communication Strategies
 Understanding how abbreviations function can enhance digital communication strategies for businesses and organizations, making interactions more relatable and engaging.
 
-### Language Education
-These findings can help language educators understand the evolving nature of digital communication and incorporate digital language practices into their teaching methods.
-
-## Future Research
-- **Cross-Cultural Analysis**: Examine abbreviation usage in different cultural contexts.
-- **Emoji Interaction**: Study the interaction between emojis and abbreviations.
-- **Historical Evolution**: Trace the evolution of abbreviations in digital communication.
-- **Educational Integration**: Explore how digital language practices can be integrated into formal education.
-
 ## Conclusion
-This project underscores the dynamic nature of language on social media. Abbreviations are more than just shortcuts; they reflect the socio-cultural landscape of digital communication. The insights gained from this analysis have practical applications in communication, education, and marketing.
+The project underscores the dynamic nature of language on social media. Abbreviations are more than just shortcuts; they reflect the socio-cultural landscape of digital communication. The insights gained from this analysis have practical applications in communication, education, and marketing.
 
 
 
